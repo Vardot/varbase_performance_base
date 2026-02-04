@@ -1,12 +1,16 @@
 name: Varbase Performance Base
 description: A recipe to manage default performance optimization modules, caching configurations, and speed enhancements for Varbase. Includes page caching, asset aggregation, image optimization, lazy loading, and CDN integration support.
 type: Varbase Performance
+recipes:
+  - core/recipes/core_recommended_maintenance
+  - core/recipes/core_recommended_performance
 install:
   - page_cache
   - dynamic_page_cache
   - imagemagick
   - imageapi_optimize
   - imageapi_optimize_webp
+  - ultimate_cron
 config:
   actions:
     system.performance:
@@ -24,3 +28,6 @@ config:
         quality: 75
         log_warnings: true
         debug: false
+    automated_cron.settings:
+      simpleConfigUpdate:
+        interval: 10800
