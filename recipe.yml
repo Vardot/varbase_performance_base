@@ -3,7 +3,6 @@ description: A recipe to manage default performance optimization modules, cachin
 type: Varbase Performance
 recipes:
   - core/recipes/core_recommended_maintenance
-  - core/recipes/core_recommended_performance
 install:
   - page_cache
   - dynamic_page_cache
