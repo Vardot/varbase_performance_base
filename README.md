@@ -43,7 +43,6 @@ ddev drush recipe ../recipes/varbase_performance_base
 ### Image Optimization
 - ImageMagick v6 configured as the default image toolkit
 - Image quality set to 75 for a balance between file size and visual quality
-- WebP conversion enabled via imageapi_optimize_webp
 - ImageAPI optimize pipeline for automated image processing
 
 ## Maintainers

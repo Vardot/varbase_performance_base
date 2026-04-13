@@ -20,7 +20,6 @@
     "drupal/core": "~11.3.0",
     "drupal/ultimate_cron": "~2",
     "drupal/imageapi_optimize": "~4.1.0",
-    "drupal/imageapi_optimize_webp": "~3",
     "drupal/imagemagick": "~4"
   },
   "version": "1.0.x-dev"

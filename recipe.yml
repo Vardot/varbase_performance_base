@@ -8,7 +8,6 @@ install:
   - dynamic_page_cache
   - imagemagick
   - imageapi_optimize
-  - imageapi_optimize_webp
   - ultimate_cron
 config:
   actions:
