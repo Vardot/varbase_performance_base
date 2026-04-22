@@ -9,7 +9,7 @@ install:
   - imagemagick
   - imageapi_optimize
   - ultimate_cron
-  - fast_404
+  - fast404
 config:
   actions:
     system.performance:
