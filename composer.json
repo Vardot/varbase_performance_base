@@ -21,7 +21,7 @@
     "drupal/ultimate_cron": "~2",
     "drupal/imageapi_optimize": "~4.1.0",
     "drupal/imagemagick": "~4",
-    "drupal/fast_404": "~3"
+    "drupal/fast_404": "~3.0"
   },
   "version": "1.0.x-dev"
 }
