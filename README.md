@@ -1,3 +1,5 @@
+[![Varbase](https://raw.githubusercontent.com/Vardot/varbase/11.0.x/images/varbase-logo.png)](https://www.drupal.org/project/varbase)
+
 # Varbase Performance Base
 
 A recipe to manage default performance optimization modules, caching configurations, and speed enhancements for Varbase.
