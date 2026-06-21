@@ -23,5 +23,5 @@
     "drupal/imagemagick": "~4",
     "drupal/fast_404": "~3.0"
   },
-  "version": "1.0.x-dev"
+  "version": "1.0.0-alpha2"
 }
