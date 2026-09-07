@@ -8,7 +8,6 @@ install:
   - dynamic_page_cache
   - imagemagick
   - imageapi_optimize
-  - ultimate_cron
   - fast404
 config:
   actions:
