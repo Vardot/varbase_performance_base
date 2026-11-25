@@ -17,10 +17,10 @@
     "source": "http://cgit.drupalcode.org/varbase_performance_base"
   },
   "require": {
-    "drupal/core": "~11.4.0",
-    "drupal/imageapi_optimize": "~4.1.0",
-    "drupal/imagemagick": "~4",
-    "drupal/fast_404": "~3.0"
+    "drupal/core": "^11.4 || ^12.0",
+    "drupal/imageapi_optimize": "^4.1",
+    "drupal/imagemagick": "^4.0",
+    "drupal/fast_404": "^3.0"
   },
   "version": "1.0.x-dev"
 }
